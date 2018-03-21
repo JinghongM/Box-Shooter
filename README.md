@@ -1,2 +1,2 @@
 # Box-Shooter
-The imstallation is in the Build directory
+The web in the Build directory
